@@ -12,7 +12,7 @@
 | Name | Student ID | Role |
 |---|---|---|
 | Shirisha Srirangam | C5057017 | Data pipeline, TF-IDF vectorizer, Logistic Regression, SVM, temperature scaling calibration |
-| Vara Prasad Kurella | C5067650 | BERT and RoBERTa fine-tuning, cosine warmup, gradient clipping, EMA weights |
+| Vara Prasad Kurella | C5067650 | BERT and RoBERTa fine-tuning, gradient clipping, EMA weights |
 | Sai Krishna Samudrapu | C4060587 | SHAP, Integrated Gradients, LIME, LOO, Multi-XAI convergence, four-tier risk escalation |
 | John Babu Thammisetti | C5050552 | Fairness audit, construct validity, robustness testing, drift detection, OOD |
 | Raviteja Vibhuthi | C5060678 | FastAPI backend, React dashboard, clinical copilot, Gemini RAG, live monitor |
