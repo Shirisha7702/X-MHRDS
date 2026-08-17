@@ -36,7 +36,7 @@ Every prediction is wrapped in:
 - A linguistic register fairness audit across Youth Slang, Formal Language, and Literal/Direct phrasing
 - A construct validity audit confirming models detect crisis-specific language, not generic negativity
 - Robustness stress testing under typo injection and distracting text
-- Population Stability Index drift monitoring
+- Population Stability Index monitoring
 - Energy-based out-of-distribution detection and Monte Carlo Dropout predictive uncertainty
 - A live real-time monitoring feed with trend and change-point detection
 - A Gemini-backed retrieval-augmented generation clinical copilot
